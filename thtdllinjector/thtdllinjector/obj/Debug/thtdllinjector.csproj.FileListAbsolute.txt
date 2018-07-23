@@ -1,0 +1,11 @@
+c:\users\ben10\source\repos\thtdllinjector\thtdllinjector\bin\Debug\thtdllinjector.exe.config
+c:\users\ben10\source\repos\thtdllinjector\thtdllinjector\bin\Debug\thtdllinjector.exe
+c:\users\ben10\source\repos\thtdllinjector\thtdllinjector\bin\Debug\thtdllinjector.pdb
+c:\users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Debug\thtdllinjector.csprojResolveAssemblyReference.cache
+c:\users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Debug\thtdllinjector.Form1.resources
+c:\users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Debug\thtdllinjector.Properties.Resources.resources
+c:\users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Debug\thtdllinjector.csproj.GenerateResource.Cache
+c:\users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Debug\thtdllinjector.csproj.CoreCompileInputs.cache
+c:\users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Debug\thtdllinjector.exe
+c:\users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Debug\thtdllinjector.pdb
+c:\users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Debug\thtdllinjector.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\ben10\source\repos\thtdllinjector\thtdllinjector\bin\Release\thtdllinjector.exe.config
+C:\Users\ben10\source\repos\thtdllinjector\thtdllinjector\bin\Release\thtdllinjector.exe
+C:\Users\ben10\source\repos\thtdllinjector\thtdllinjector\bin\Release\thtdllinjector.pdb
+C:\Users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Release\thtdllinjector.Form1.resources
+C:\Users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Release\thtdllinjector.Form2.resources
+C:\Users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Release\thtdllinjector.Properties.Resources.resources
+C:\Users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Release\thtdllinjector.csproj.GenerateResource.Cache
+C:\Users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Release\thtdllinjector.csproj.CoreCompileInputs.cache
+C:\Users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Release\thtdllinjector.exe
+C:\Users\ben10\source\repos\thtdllinjector\thtdllinjector\obj\Release\thtdllinjector.pdb
